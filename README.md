@@ -1,4 +1,4 @@
-# AIML-Task-3
+# AIML-Task-4
 # 🚢 Titanic Survival Project 🚢
 
 This project predicts who survived the Titanic. We started with raw data, cleaned it up, and then built three different models to see which one was the best at predicting survival.
